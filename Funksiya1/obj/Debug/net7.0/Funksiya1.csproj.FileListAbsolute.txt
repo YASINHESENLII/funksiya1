@@ -1,0 +1,15 @@
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\bin\Debug\net7.0\Funksiya1.exe
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\bin\Debug\net7.0\Funksiya1.deps.json
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\bin\Debug\net7.0\Funksiya1.runtimeconfig.json
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\bin\Debug\net7.0\Funksiya1.dll
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\bin\Debug\net7.0\Funksiya1.pdb
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\obj\Debug\net7.0\Funksiya1.csproj.AssemblyReference.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\obj\Debug\net7.0\Funksiya1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\obj\Debug\net7.0\Funksiya1.AssemblyInfoInputs.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\obj\Debug\net7.0\Funksiya1.AssemblyInfo.cs
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\obj\Debug\net7.0\Funksiya1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\obj\Debug\net7.0\Funksiya1.dll
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\obj\Debug\net7.0\refint\Funksiya1.dll
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\obj\Debug\net7.0\Funksiya1.pdb
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\obj\Debug\net7.0\Funksiya1.genruntimeconfig.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\Funksiya1\Funksiya1\obj\Debug\net7.0\ref\Funksiya1.dll
